@@ -1,2 +1,0 @@
-# ACMtask
-ACM Task
